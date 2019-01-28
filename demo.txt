@@ -1,2 +1,2 @@
 demo is a sample file
-sample=file2
+sample=file3
