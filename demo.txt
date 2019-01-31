@@ -1,2 +1,0 @@
-demo is a sample file
-sample=file3
